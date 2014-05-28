@@ -1,0 +1,50 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Dialog1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Food_Snacks.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Damaged.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.UpDateStock.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.SalesPrice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.changeLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Reports.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.EthnicLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Employees.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Users.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.MenuItem.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.AboutBox1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.application
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.application
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.xml
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.pdb
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.exe.manifest
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.application
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.exe
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.pdb
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\bin\Debug\Restuarant and Bar System.xml
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.AboutBox1.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.changeLogin.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Damaged.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Employees.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.EthnicLogin.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Food_Snacks.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Form1.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.MenuItem.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Dialog1.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Resources.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Reports.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.SalesPrice.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.UpDateStock.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant_and_Bar_System.Users.resources
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.vbproj.GenerateResource.Cache
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.exe.manifest
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.application
+C:\Users\Anthony William\Documents\Visual Studio 2012\Projects\Restuarant and Bar System\Restuarant and Bar System\obj\x86\Debug\Restuarant and Bar System.exe

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RestuarantandBarSystem
+</name>
+</assembly>
+<members>
+<member name="P:Restuarant_and_Bar_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.alco">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.alco1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.becks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.bell">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.carlesberg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.coke">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.Ethnic_bar_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.Ethnic_bar_logo8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.fanta">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.fanta1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.food_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.food_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.heinken">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.killer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.logo_sprite">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.pepsi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.pepsi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.pos">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.rwezo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.tea">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.titanic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Restuarant_and_Bar_System.My.Resources.Resources.whies">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Restuarant_and_Bar_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
